@@ -18,3 +18,22 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# string are defined with a single or double quote
+# when string is printed, it will print verbatim
+print("keep going")
+
+# strings can also be assigned to a variable
+k = "Don't stop"
+print(k)
+
+# multiple variables can be assigned on one line:
+x, y, z = 'one', 'two', 'three'
+print(x,y,z)
+
+h, j, t = 2, 3, 4
+print(h,j,t)
+
+# can print any combination of variables because they are all numbers
+# can not print mix of numbers & strings
+print(z,j,x)
