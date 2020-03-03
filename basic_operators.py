@@ -70,3 +70,13 @@ family_names = ["tracy", "brian", "brandon"]
 friend_names = ["tammy", "rachel", "kenny", "joy"]
 family_n_friend_names = family_names + friend_names
 print(family_n_friend_names)
+
+
+# Comparison Operators: compare the values on either side & determine relationship
+# use any of the operators below to determine relationships of values:
+# a == b: values are equal
+# a != b: a does NOT equal b
+# a <> b: a does NOT equal b
+# a > b ; a < b
+# a >= b: a is greater than or equal to b
+# a <= b: a is less than or equal to b
