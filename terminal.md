@@ -21,3 +21,9 @@ to move back indentions:
 
 to move between & see what apps/windows are open/active:
 ```command+tab```
+
+to move up lines in visual code:
+```ctrl+shift+up arrow```
+
+to move line down in visiual code:
+```ctrl+shift+down arrow```
