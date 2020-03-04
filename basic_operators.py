@@ -80,3 +80,41 @@ print(family_n_friend_names)
 # a > b ; a < b
 # a >= b: a is greater than or equal to b
 # a <= b: a is less than or equal to b
+
+
+# Assignment operator: holds a variable & adds on other operators
+# assignment operators do NOT return anything, must print after use
+# start with assigning a variable
+c = 5
+
+# to add on to the variable use : +=
+# c += 2 is equivalent to c = c + 2
+c +=2
+print(c)
+
+# to subtract from variable use: -=
+# c -= 2 is equivalent to c = c - 2
+c -=2
+print(c)
+
+# to multiply variable use: *=
+# c *= 2 is equivalent to c = c * 2
+c *=2
+print (c)
+
+# to divide variable use: /=
+# c /= 2 is equivalent to c = c / 2
+c /= 2
+print(c)
+
+# to find remainder of a division from variable use: %=
+# c %= 2 is equivalent to c = c % 2
+c %= 2
+print(c)
+
+#to perform exponential (power) calculation on variable use: **=
+# c ** 2 is equivalent to c = c ** 2
+c ** 2
+print(c)
+
+# the assignment operator builds upon each other when using the same letter multiple times in a row
