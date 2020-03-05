@@ -33,3 +33,18 @@ movie = "love actually"
 activity = "tennis"
 if movie == "love actually" or activity == "swimming": # if one is true, the condition will return true
     print("I like romantic comedies.")
+
+# in operator - checks if a specified object exists in an iterable object ie. lists
+color = "pink"
+if color in ["red", "orange", "pink"]:
+    print("this is the best color!")
+
+favorite_show = "friends"
+tv_shows = ["the office", "you", "friends", "greys anatomy"]
+if favorite_show in tv_shows:
+    print("this is the best show ever!")
+
+# "not" operator - inverts an expression
+sibling = "brian"
+if sibling is not "tracy":
+    print("I am not related to them.")
