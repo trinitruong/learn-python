@@ -45,6 +45,9 @@ print(cubed)
 
 print(2 ** 4) #equals 2^4
 
+# double forwardslash ( // ) will divide an expression & return without a decimal
+print (23 // 4)
+
 # addition can be used with strings
 petname = "sweet" + "heart"
 print(petname)
