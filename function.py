@@ -22,3 +22,4 @@ def sum_example(a,b): # line 20 and 21 = function definition ; a,b = declaring a
 x = sum_example(3,4) # line 22 = function call & output is none b/c dose not return anything, but holds value
 # line 22: 3,4 = passing arguments
 print(sum_example(3,4)) # using print command = outputs 7
+print(x) # outputs 7 b/c value is stored in x variable
